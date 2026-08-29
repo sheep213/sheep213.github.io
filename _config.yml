@@ -1,0 +1,14 @@
+title: 我的个人主页
+author: 你的名字
+description: 写点东西，分享文件，一个简单的小站。
+lang: zh-CN
+baseurl: ""
+url: ""
+
+# 让所有日期的文章都正常显示（包括今天刚写的）
+future: true
+
+# 以下设置一般不用改动
+markdown: kramdown
+kramdown:
+  input: GFM
